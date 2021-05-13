@@ -1,5 +1,5 @@
 const
-    OriginalCursor = require('nedb/lib/cursor')
+    OriginalCursor = require('@photic/nedb/lib/cursor')
 
 /**
  * @class
